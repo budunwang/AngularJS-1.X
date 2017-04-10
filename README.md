@@ -1,2 +1,2 @@
-# AngularJS-_1.X
+# AngularJS-1.X
 Example for AngularJS 1.x By bdwang
